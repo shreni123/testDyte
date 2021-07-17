@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/testDyte/static/css/main.ed6ae6b8.chunk.css",
+    "main.js": "/testDyte/static/js/main.30ada7f7.chunk.js",
+    "main.js.map": "/testDyte/static/js/main.30ada7f7.chunk.js.map",
+    "runtime-main.js": "/testDyte/static/js/runtime-main.999ce93f.js",
+    "runtime-main.js.map": "/testDyte/static/js/runtime-main.999ce93f.js.map",
+    "static/css/2.c46397a6.chunk.css": "/testDyte/static/css/2.c46397a6.chunk.css",
+    "static/js/2.c8ee327f.chunk.js": "/testDyte/static/js/2.c8ee327f.chunk.js",
+    "static/js/2.c8ee327f.chunk.js.map": "/testDyte/static/js/2.c8ee327f.chunk.js.map",
+    "index.html": "/testDyte/index.html",
+    "precache-manifest.7c09f0fd8be39ebb547fe54c0a9fe30f.js": "/testDyte/precache-manifest.7c09f0fd8be39ebb547fe54c0a9fe30f.js",
+    "service-worker.js": "/testDyte/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/testDyte/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.ed6ae6b8.chunk.css.map": "/testDyte/static/css/main.ed6ae6b8.chunk.css.map",
+    "static/js/2.c8ee327f.chunk.js.LICENSE.txt": "/testDyte/static/js/2.c8ee327f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.999ce93f.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.c8ee327f.chunk.js",
+    "static/css/main.ed6ae6b8.chunk.css",
+    "static/js/main.30ada7f7.chunk.js"
+  ]
+}
